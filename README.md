@@ -1,7 +1,7 @@
 # EQemuBotEpics
 
 ## Intro
-If you're using a brand new install from Akka's newer repack, you might find some Merc Liasons in the Plane of Knowledge that don't do anything. If you installed bots on your server, you might also notice that you need to farm gear for them. So, you ask yourself: "How can I get my bots epic weapons for those hard raids later? What ever will I do!?"
+If you're using a brand new install from Akka's newer repack, you might find some Merc Liasons in the Plane of Knowledge that don't do anything. If you installed bots on your server, you might also notice that you need to farm gear for them. So, you ask yourself: *"How can I get my bots epic weapons for those hard raids later? What ever will I do!?"*
 The answer? You install my scripts and do a tiny bit of database editing using a pre-made easy to run MySQL script that adds the items, renames the NPCs, and gets you those sweet, sweet bot epics. Want to know more?
 
 ## What Heckin' Does It?
