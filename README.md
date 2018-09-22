@@ -17,7 +17,7 @@ Sure it is, you just have to go in an edit the scripts which are COMMENTED TO MA
 
 ## Requirements
 Seriously, let's be serious for a moment. My code works best with the following:
-1. CLIENTS ONLY: **Fresh** Install of EQ Titanium; **rename nektulos.eqg to nektulos.eqg.bak and Nektulos_EnvironmentEmitters.txt to Nektulos_EnvironmentEmitters.txt.bak, and Client files (provided in repo).**
+1. CLIENTS ONLY: **Fresh** Install of EQ Titanium; rename **nektulos.eqg** to **nektulos.eqg.bak** and **Nektulos_EnvironmentEmitters.txt** to **Nektulos_EnvironmentEmitters.txt.bak**, and Client files (provided in repo).**
 2. Download the EQemu server from here, follow Akka's guide: https://github.com/Akkadius/EQEmuInstall/wiki/EQEmu-Readme
 3. Minor understanding of Heidi SQL and the directory structure of EQemu.
 
