@@ -1,0 +1,42 @@
+1,1,TFFF,GlobalFroglok_chr,Loading Froglok
+1,1,TFFT,GlobalPCFroglok_chr,Loading Froglok
+1,1,TFFF,frogequip,Loading Froglok
+1,1,TFFT,GlobalSKE_chr2,Loading Froglok
+1,1,TFFF,GlobalDRK_chr,Loading Froglok
+1,1,TFFF,Global_obj,Loading Character Equipment Files
+1,1,TFTF,GEquip,Loading Character Equipment Files
+2,0,TFFF,GEquip8,Loading Character Equipment Files
+2,0,TFFF,GEquip2,Loading Character Equipment Files
+2,0,TFFF,grass,Loading Character Equipment Files
+2,0,TFFF,GEquip5,Loading Character Equipment Files
+2,0,TFFF,GEquip4,Loading Character Equipment Files
+2,0,TFFF,GEquip3,Loading Character Equipment Files
+2,0,TFFF,loyequip,Loading Character Equipment Files
+2,0,TFFF,ldonequip,Loading Character Equipment Files
+2,0,TFFF,gatesequip,Loading Character Equipment Files
+2,0,TFFF,omensequip.eqg,Loading Character Equipment Files
+2,0,TFFF,donequip.eqg,Loading Character Equipment Files
+2,0,TFFF,dodequip.eqg,Loading DoD Character Equipment Files
+3,0,TFFF,gbn.eqg,Loading Characters
+3,0,TFFF,wwf.eqg,Loading Characters
+3,0,TFFF,kbd.eqg,Loading Characters
+3,0,TFFF,fng.eqg,Loading Characters
+3,0,TFFF,ork.eqg,Loading Characters
+3,0,TFFF,ggy.eqg,Loading Characters
+3,0,TFFF,eve.eqg,Loading Characters
+3,0,TFFF,mnr.eqg,Loading Characters
+3,0,TFFF,zmf.eqg,Loading Characters
+3,0,TFFF,zmm.eqg,Loading Characters
+3,0,TFFF,fry.eqg,Loading Characters
+3,0,TFFF,cwr.eqg,Loading Characters
+3,0,TFFF,bas.eqg,Loading Characters
+3,0,TFFF,rap_chr,Loading Characters
+3,0,TFFF,snk.eqg,Loading Characters
+3,0,TFFF,tar.eqg,Loading Characters
+3,0,TFFF,skt_chr,Loading Character Equipment Files
+3,0,TFFF,Global6_chr2,Loading Character Equipment Files
+3,0,TFFF,Global6_chr,Loading Character Equipment Files
+3,0,TFFF,Global4_chr,Loading Characters
+3,1,TFFF,Global_chr,Loading Characters
+4,0,TFFF,Global2_chr,Loading Global Items and Equipment
+4,0,TFFF,Global3_chr,Loading Global Items and Equipment
