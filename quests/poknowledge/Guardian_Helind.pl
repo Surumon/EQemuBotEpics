@@ -64,7 +64,7 @@ sub EVENT_SAY {
 		quest::say("Hello, hello! Welcome to the [low gachapon]! Try your luck today and you may get a [rare ticket], or did you need some [help]?");
 	}
 	if($text=~/low gachapon/i) {
-		quest::say("Yes, yes. For a mere ten platinum, you may reach into this magical bag and take one item. You may play as many times as you like to try your luck at a [rare ticket].");
+		quest::say("Yes, yes. For a mere twenty-five platinum, you may reach into this magical bag and take one item. You may play as many times as you like to try your luck at a [rare ticket].");
 	}
 	if($text=~/rare ticket/i) {
 		quest::say("Rarity, indeed! Should you manage to get one, you can try for even rarer items. Simply give me that ticket and I will let you pull an item out of a different bag.");
