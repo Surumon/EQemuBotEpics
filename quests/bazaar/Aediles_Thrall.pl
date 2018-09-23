@@ -130,7 +130,7 @@ sub EVENT_SAY {
          }
          if($text=~/Interested/i) {
             quest::emote("looks around the room");
-            quest::say("Shhh, I kin deliver ye another Individual for $nextbotcost platinum an' 4 o' dem Small Nock Class 4 Ceramic Hooked Arrows for shootin' at dem runaway Individuals.");
+            quest::say("Shhh, I kin deliver ye another Individual for $nextbotcost platinum an' 4 o' dem Small Nock Class 4 Ceramic Hooked Arrows for shootin' at dem Orcs.");
          }
       }
       elsif(($ulevel >= $nextbotlevel) && ($qglobals{bot_spawn_limit} >= 6)) {
@@ -139,7 +139,7 @@ sub EVENT_SAY {
          }
          if($text=~/Interested/i) {
             quest::emote("looks around the room");
-            quest::say("Shhh, I kin deliver ye another Individual for $nextbotcost platinum an' 4 o' dem Small Nock Class 4 Ceramic Hooked Arrows for shootin' at dem runaway Individuals.");
+            quest::say("Shhh, I kin deliver ye another Individual for $nextbotcost platinum an' 4 o' dem Small Nock Class 4 Ceramic Hooked Arrows for shootin' at dem Orcs.");
             quest::say("If ye dun have dem arrows, ye can just pay me $nextextracost platinum.");
          }
       }
