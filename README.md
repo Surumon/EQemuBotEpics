@@ -13,7 +13,7 @@ What does my code do precisely? Glad you asked!
 5. I provide a simple patch for any players using a fresh install of Titanium.
 
 ## Configurable?
-Sure it is, you just have to go in an edit the scripts which are COMMENTED TO MAKE THEM EASY TO UNDERSTAND. Because I hate leaving people in the dark with no comments on code. Make your requirements as extreme or as simple as you want. More info will be posted in the Wiki with a *How-To*.
+Sure it is, you just have to go in an edit the scripts which are **COMMENTED TO MAKE THEM EASY TO UNDERSTAND**. Because I hate leaving people in the dark with no comments on code. Make your requirements as extreme or as simple as you want. More info will be posted in the Wiki with a *How-To*.
 
 ## Requirements
 Seriously, let's be serious for a moment. My code works best with the following:
