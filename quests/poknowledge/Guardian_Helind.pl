@@ -2,7 +2,7 @@
 #Low-Rank Gachapon
 #by Surumon
 #
-#Asks for 10 platinum from the player and will reward a random item, with a ~5% chance at a rare item ticket.
+#Asks for 25 platinum from the player and will reward a random item, with a ~5% chance at a rare item ticket.
 #
 #Random Gachapon Items:
 #147514 - Rare Gacha Ticket
@@ -77,7 +77,7 @@ sub EVENT_SAY {
 
 sub EVENT_ITEM {
 my $cash = $platinum;
-	if ($cash >= 10) { #50 Platinum, Exact Change Only
+	if ($cash >= 25) { #25 Platinum, Exact Change Only
 		quest::say("Reach into my magic bag and grab a prize. I hope it's good!");
 		quest::ding();
 		quest::ChooseRandom(147514, 14641, 65616, 14621, 10358, 14633, 14617, 14677, 65626, 14629, 14605, 14601, 58707, 14625, 14669, 65606, 14637, 14609, 14649, 14657, 14645); #Random Item, See List Above
