@@ -1,5 +1,5 @@
 # Quest Install Instructions
-These are the quest files needed for the quest givers in the Plane of Knowledge. To install, simply add all these .pl files to your EQemu/quests/poknowledge/ directory and replace all conflicting files.
+These are the quest files needed for the quest givers in the Plane of Knowledge. To install, simply add all these **.pl** files to your **EQemu/quests/poknowledge/** directory and replace all conflicting files.
 
 **DELETE THE FOLLOWING FILES FROM THE SAME FOLDER TO AVOID CONFLICTS: Guardian_Cigosh.lua, Guardian_Daknot.lua, Guardian_Drendle.lua, Guardian_Jerbabi.lua, and Guardian_Vaehan.lua**
 
