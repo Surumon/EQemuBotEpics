@@ -11,5 +11,6 @@
 
 ## Known Client Issues
 1. You will randomly gain swim skill while running through Lavastorm Mountains. This is a conflict with the old zone and new zone. I don't know how to fix this and the new zone is much better and more interesting.
-2. Boats don't work. I can't fix it.
-3. Map files may be incomplete or missing entirely. You will have to find those yourself. I highly suggest you avoid using maps though. It's way more fun that way!
+2. Mobs will constantly free fall through Nektulos Forest. This is due to the newer spawn locations and the old spawn locations and the older zone being the one we use. This will take an extremely long time to fix and it's all handled server side, *by hand* and I don't have enough *hands* or **time** to fix it. Sorry!
+3. Boats don't work. I can't fix it.
+4. Map files may be incomplete or missing entirely. You will have to find those yourself. I highly suggest you avoid using maps though. It's way more fun that way!
