@@ -7,7 +7,8 @@
 
 ## What Does This Do?
 1. This will change your load screen from that awful wolf thing to a more classic asthetic, if you do not want this **do not download the loadingscreen.jpg file.**
-2. It updates your *GlobalLoad.txt* to include newer models for the snakes and spiders that are normally not included with a fresh install of EverQuest Titanium. This fixes the amusing bug of giant Humanoids walking very slowly half in the ground.
+2. Changing those file names fixes the zoning issues with Nektulos Forest and removes the floating special effects and fire and whatnot from the updated zone we no longer use.
+3. It updates your *GlobalLoad.txt* to include newer models for the snakes and spiders that are normally not included with a fresh install of EverQuest Titanium. This fixes the amusing bug of giant Humanoids walking very slowly half in the ground.
 
 ## Known Client Issues
 1. You will randomly gain swim skill while running through Lavastorm Mountains. This is a conflict with the old zone and new zone. I don't know how to fix this and the new zone is much better and more interesting.
