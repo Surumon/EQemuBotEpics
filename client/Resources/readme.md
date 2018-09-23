@@ -1,4 +1,4 @@
-# Client Files
+# Client Files For EverQuest Titanium, Fresh Installs
 
 ## Install Steps
 1. Rename Nektulos_EnvironmentEmitters.txt to Nektulos_EnvironmentEmitters.txt.bak and nektulos.eqg to nektulos.eqg.bak **(IF YOU DO NOT THEN YOU CANNOT ZONE THROUGH NEKTULOS FOREST, EVER. THE PLANE OF KNOWLEDGE BOOK WILL PUT YOU UNDER THE TERRAIN.)**
